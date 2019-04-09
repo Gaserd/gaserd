@@ -1,5 +1,17 @@
 # Table of contents
 
 * [Wiki](README.md)
-* [Music for work](music-for-work.md)
+
+## Development
+
+* [How to create small search engine for your awesome project](development/how-to-create-small-search-engine-for-your-awesome-project.md)
+
+## Music
+
+* [Music for work](music/music-for-work.md)
+* [Untitled](music/untitled.md)
+
+## Films
+
+* [Untitled](films/untitled.md)
 
