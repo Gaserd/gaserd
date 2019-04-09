@@ -1,14 +1,4 @@
----
-description: Main page
----
+# Wiki
 
-# Wiki of my life
-
-Hi! 
-
-My name is Sergey and now a developer/product manager. 
-
-I like tech, but more like mobile tech. 
-
-I like interesting things in life.
+Hi, this is my personal page where I collect everything I know and try to share my own knowledge
 

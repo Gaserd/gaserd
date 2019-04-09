@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Wiki of my life](README.md)
+* [Wiki](README.md)
 
