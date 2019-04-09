@@ -9,9 +9,6 @@
 ## Music
 
 * [Music for work](music/music-for-work.md)
-* [Untitled](music/untitled.md)
 
 ## Films
-
-* [Untitled](films/untitled.md)
 
