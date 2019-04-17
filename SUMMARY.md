@@ -13,6 +13,8 @@
 * [Web Assembly](development/web-assembly/README.md)
   * [Library for projects](development/web-assembly/library-for-projects.md)
   * [How create first .wasm](development/web-assembly/how-create-first-.wasm.md)
+* [Algorithms](development/algorithms/README.md)
+  * [Interesting lists](development/algorithms/interesting-lists.md)
 
 ## Music
 
