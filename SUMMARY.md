@@ -15,6 +15,8 @@
   * [How create first .wasm](development/web-assembly/how-create-first-.wasm.md)
 * [Algorithms](development/algorithms/README.md)
   * [Interesting lists](development/algorithms/interesting-lists.md)
+* [Learn Code](development/learn-code/README.md)
+  * [Interesting links](development/learn-code/interesting-links.md)
 
 ## Music
 
