@@ -12,6 +12,7 @@ Small list best music for work.
 6. [https://www.youtube.com/watch?v=MW4fASDkQXA](https://www.youtube.com/watch?v=MW4fASDkQXA)
 7. [https://www.youtube.com/watch?v=rbM0eGQepgc](https://www.youtube.com/watch?v=rbM0eGQepgc)
 8. [https://www.youtube.com/watch?v=C25LySsyGe4](https://www.youtube.com/watch?v=C25LySsyGe4)
+9. [https://www.youtube.com/watch?v=yydZbVoCbn0](https://www.youtube.com/watch?v=yydZbVoCbn0)
 
 Most of this music was written by [Jeremy Soule](https://en.wikipedia.org/wiki/Jeremy_Soule).
 

@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Wiki](README.md)
+* [Interested API](interested-api.md)
 
 ## Development
 
